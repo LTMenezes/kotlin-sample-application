@@ -5,6 +5,8 @@ Versioned jar for beginners to run the server.
 # Build
 Run 'gradle shadowJar' to create a fat jat at build/libs
 
-#Run
-Requirements : Java 8 JRE
-Usage: java -jar FATJARFILEPATH
+# Run #
+  ## Requirements: ##
+       Java 8 JRE
+  ## Usage: ##
+      java -jar FATJARFILEPATH
